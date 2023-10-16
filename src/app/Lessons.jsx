@@ -12,19 +12,19 @@ const Lessons = () => {
                     <p className='text-[20px] leading-[24px] font-normal'>— Ushbu darsda storytelling nima ekanligi haqida
                         gaplashamiz. Mavzuga umumiy kirish qilamiz.
                         Ritorika, qahramon, sayohat, sarguzasht kabi
-                        asosiy tushunchalar haqida to'xtalamiz.</p>
+                        asosiy tushunchalar haqida toxtalamiz.</p>
                 </div>
                 <div className="card border-2 border-[rgba(250,164,12,0.50)] p-5 max-w-[510px] min-h-[255px]">
                     <span className='text-[20px] text-[#00E689] font-extrabold mb-[5px]'>— 02 dars</span>
                     <h1 className='text-[25px] font-extrabold mb-5'>Kopirayterlik va hikoya jozibasi</h1>
                     <p className='text-[20px] leading-[24px] font-normal'>
                         — Qaysi mavzuda yozamiz?
-                        Mavzu borasida bir to'xtamga kelgandan keyingi
-                        harakatlarimiz nimalardan iborat bo'ladi?
+                        Mavzu borasida bir toxtamga kelgandan keyingi
+                        harakatlarimiz nimalardan iborat boladi?
                     </p>
                     <p className='text-[20px] leading-[24px] font-normal mt-5'>
                         — Ushbu darsda biz mavzuni tadqiq qilish,
-                        ma'lumot to'plash, g'oyalar yaratish, yozuvlar va
+                        malumot toplash, goyalar yaratish, yozuvlar va
                         fikrlarni tartibga solish kabi jarayonlarni qanday
                         amalga oshirish haqida gaplashamiz.
                     </p>
@@ -38,7 +38,7 @@ const Lessons = () => {
                         foydalanamiz?
                     </p>
                     <p className='text-[20px] leading-[24px] font-normal mt-5'>
-                        — Tomoshabinlarning e'tiborini mavzuga jalb
+                        — Tomoshabinlarning etiborini mavzuga jalb
                         qilish va uni doimo faol tarzda ushlab turish
                         uchun nima qilish zarur?
                     </p>
@@ -54,20 +54,20 @@ const Lessons = () => {
                     <span className='text-[20px] text-[#00E689] font-extrabold mb-[5px]'>— 04 dars</span>
                     <h1 className='text-[25px] font-extrabold mb-5'>Nutq va gapirish usullari</h1>
                     <p className='text-[20px] leading-[24px] font-normal'>
-                        — Bu darsda notiqlik san'ati bilan qisqacha
+                        — Bu darsda notiqlik sanati bilan qisqacha
                         tanishib chiqamiz. Hikoyachining eng kuchli
                         vositasi uning ovozidir. Ushbu dars davomida
                         jonli auditoriya oldida qanday gapirish va
-                        taqdimot paytida nimalarga e'tibor qaratish
+                        taqdimot paytida nimalarga etibor qaratish
                         lozimligini bilib olasiz. Ikkinchi qismda esa
                         ovozlashtirish haqida gaplashamiz.
                     </p>
                     <p className='text-[20px] leading-[24px] font-normal mt-5'>
                         — Ovozingizni tuzatish va tildagi dangasalikdan
-                        xalos bo'lish, ovozga ishlov berish, tartibga
+                        xalos bolish, ovozga ishlov berish, tartibga
                         solish, audio chastotalar, ekvalayzer, kompressor,
                         filtrlar va ulardan qayerda va qanday foydalanish
-                        haqida ma'lumotlar beriladi.
+                        haqida malumotlar beriladi.
                     </p>
 
                 </div>
@@ -151,8 +151,8 @@ const Lessons = () => {
                     </Link>
                     <p>
                         Ushbu tugmani bosish orqali kursning <br/>
-                        Telegramdagi saralash guruhiga a'zo <br/>
-                        bo'lasiz →
+                        Telegramdagi saralash guruhiga azo <br/>
+                        bolasiz →
                     </p>
                 </div>
             </div>

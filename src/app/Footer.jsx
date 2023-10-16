@@ -28,8 +28,8 @@ const Footer = () => {
                             </svg>
                         </div>
                         <h1 className='text-center text-[25px] font-bold mb-10'>O’quvchilarimizning <span className='text-[#00E689]'>kurs haqidagi fikrlari</span></h1>
-                        <h2 className='text-[20px] leading-[30px] mb-5'>Abdukarim Mirzaevning 1-halqa tinglovchilaridan biri bo`lish imkonini bergan <br/> Robbimga hamdlar bo'lsin! Mening nazarimda bu bilimlar hozirgi kunda juda <br/> muhim.</h2>
-                        <p className='text-[20px] leading-[30px] mb-10'>Darsda o'tilgan mavzulardan foydalanib bir sifatli video, audio, tekst, va hkz tayyorlasa tinglovchi va ko'ruvchilarga yaxshi mahsulot yetib borsa, menimcha bizning ustoz niyatlariga yetgan bo’lardilar deb o'ylayman.</p>
+                        <h2 className='text-[20px] leading-[30px] mb-5'>Abdukarim Mirzaevning 1-halqa tinglovchilaridan biri bo`lish imkonini bergan <br/> Robbimga hamdlar bolsin! Mening nazarimda bu bilimlar hozirgi kunda juda <br/> muhim.</h2>
+                        <p className='text-[20px] leading-[30px] mb-10'>Darsda otilgan mavzulardan foydalanib bir sifatli video, audio, tekst, va hkz tayyorlasa tinglovchi va koruvchilarga yaxshi mahsulot yetib borsa, menimcha bizning ustoz niyatlariga yetgan bo’lardilar deb oylayman.</p>
                         <p className='text-[20px] leading-[30px] mb-10 font-bold text-[#FAA40C]'>Baxrom Abduqayyum</p>
                     </div>
                     <div className="keen-slider__slide number-slide2 relative">
@@ -39,8 +39,8 @@ const Footer = () => {
                             </svg>
                         </div>
                         <h1 className='text-center text-[25px] font-bold mb-10'>O’quvchilarimizning <span className='text-[#00E689]'>kurs haqidagi fikrlari</span></h1>
-                        <h2 className='text-[20px] leading-[30px] mb-5'>Abdukarim Mirzaevning 1-halqa tinglovchilaridan biri bo`lish imkonini bergan <br/> Robbimga hamdlar bo'lsin! Mening nazarimda bu bilimlar hozirgi kunda juda <br/> muhim.</h2>
-                        <p className='text-[20px] leading-[30px] mb-10'>Darsda o'tilgan mavzulardan foydalanib bir sifatli video, audio, tekst, va hkz tayyorlasa tinglovchi va ko'ruvchilarga yaxshi mahsulot yetib borsa, menimcha bizning ustoz niyatlariga yetgan bo’lardilar deb o'ylayman.</p>
+                        <h2 className='text-[20px] leading-[30px] mb-5'>Abdukarim Mirzaevning 1-halqa tinglovchilaridan biri bo`lish imkonini bergan <br/> Robbimga hamdlar bolsin! Mening nazarimda bu bilimlar hozirgi kunda juda <br/> muhim.</h2>
+                        <p className='text-[20px] leading-[30px] mb-10'>Darsda otilgan mavzulardan foydalanib bir sifatli video, audio, tekst, va hkz tayyorlasa tinglovchi va koruvchilarga yaxshi mahsulot yetib borsa, menimcha bizning ustoz niyatlariga yetgan bo’lardilar deb oylayman.</p>
                         <p className='text-[20px] leading-[30px] mb-10 font-bold text-[#FAA40C]'>Baxrom Abduqayyum</p>
                     </div>
                     <div className="keen-slider__slide number-slide3 relative">
@@ -50,8 +50,8 @@ const Footer = () => {
                             </svg>
                         </div>
                         <h1 className='text-center text-[25px] font-bold mb-10'>O’quvchilarimizning <span className='text-[#00E689]'>kurs haqidagi fikrlari</span></h1>
-                        <h2 className='text-[20px] leading-[30px] mb-5'>Abdukarim Mirzaevning 1-halqa tinglovchilaridan biri bo`lish imkonini bergan <br/> Robbimga hamdlar bo'lsin! Mening nazarimda bu bilimlar hozirgi kunda juda <br/> muhim.</h2>
-                        <p className='text-[20px] leading-[30px] mb-10'>Darsda o'tilgan mavzulardan foydalanib bir sifatli video, audio, tekst, va hkz tayyorlasa tinglovchi va ko'ruvchilarga yaxshi mahsulot yetib borsa, menimcha bizning ustoz niyatlariga yetgan bo’lardilar deb o'ylayman.</p>
+                        <h2 className='text-[20px] leading-[30px] mb-5'>Abdukarim Mirzaevning 1-halqa tinglovchilaridan biri bo`lish imkonini bergan <br/> Robbimga hamdlar bolsin! Mening nazarimda bu bilimlar hozirgi kunda juda <br/> muhim.</h2>
+                        <p className='text-[20px] leading-[30px] mb-10'>Darsda otilgan mavzulardan foydalanib bir sifatli video, audio, tekst, va hkz tayyorlasa tinglovchi va koruvchilarga yaxshi mahsulot yetib borsa, menimcha bizning ustoz niyatlariga yetgan bo’lardilar deb oylayman.</p>
                         <p className='text-[20px] leading-[30px] mb-10 font-bold text-[#FAA40C]'>Baxrom Abduqayyum</p>
                     </div>
                     <div className="keen-slider__slide number-slide4 relative">
@@ -61,8 +61,8 @@ const Footer = () => {
                             </svg>
                         </div>
                         <h1 className='text-center text-[25px] font-bold mb-10'>O’quvchilarimizning <span className='text-[#00E689]'>kurs haqidagi fikrlari</span></h1>
-                        <h2 className='text-[20px] leading-[30px] mb-5'>Abdukarim Mirzaevning 1-halqa tinglovchilaridan biri bo`lish imkonini bergan <br/> Robbimga hamdlar bo'lsin! Mening nazarimda bu bilimlar hozirgi kunda juda <br/> muhim.</h2>
-                        <p className='text-[20px] leading-[30px] mb-10'>Darsda o'tilgan mavzulardan foydalanib bir sifatli video, audio, tekst, va hkz tayyorlasa tinglovchi va ko'ruvchilarga yaxshi mahsulot yetib borsa, menimcha bizning ustoz niyatlariga yetgan bo’lardilar deb o'ylayman.</p>
+                        <h2 className='text-[20px] leading-[30px] mb-5'>Abdukarim Mirzaevning 1-halqa tinglovchilaridan biri bo`lish imkonini bergan <br/> Robbimga hamdlar bolsin! Mening nazarimda bu bilimlar hozirgi kunda juda <br/> muhim.</h2>
+                        <p className='text-[20px] leading-[30px] mb-10'>Darsda otilgan mavzulardan foydalanib bir sifatli video, audio, tekst, va hkz tayyorlasa tinglovchi va koruvchilarga yaxshi mahsulot yetib borsa, menimcha bizning ustoz niyatlariga yetgan bo’lardilar deb oylayman.</p>
                         <p className='text-[20px] leading-[30px] mb-10 font-bold text-[#FAA40C]'>Baxrom Abduqayyum</p>
                     </div>
                     <div className="keen-slider__slide number-slide5 relative">
@@ -72,8 +72,8 @@ const Footer = () => {
                             </svg>
                         </div>
                         <h1 className='text-center text-[25px] font-bold mb-10'>O’quvchilarimizning <span className='text-[#00E689]'>kurs haqidagi fikrlari</span></h1>
-                        <h2 className='text-[20px] leading-[30px] mb-5'>Abdukarim Mirzaevning 1-halqa tinglovchilaridan biri bo`lish imkonini bergan <br/> Robbimga hamdlar bo'lsin! Mening nazarimda bu bilimlar hozirgi kunda juda <br/> muhim.</h2>
-                        <p className='text-[20px] leading-[30px] mb-10'>Darsda o'tilgan mavzulardan foydalanib bir sifatli video, audio, tekst, va hkz tayyorlasa tinglovchi va ko'ruvchilarga yaxshi mahsulot yetib borsa, menimcha bizning ustoz niyatlariga yetgan bo’lardilar deb o'ylayman.</p>
+                        <h2 className='text-[20px] leading-[30px] mb-5'>Abdukarim Mirzaevning 1-halqa tinglovchilaridan biri bo`lish imkonini bergan <br/> Robbimga hamdlar bolsin! Mening nazarimda bu bilimlar hozirgi kunda juda <br/> muhim.</h2>
+                        <p className='text-[20px] leading-[30px] mb-10'>Darsda otilgan mavzulardan foydalanib bir sifatli video, audio, tekst, va hkz tayyorlasa tinglovchi va koruvchilarga yaxshi mahsulot yetib borsa, menimcha bizning ustoz niyatlariga yetgan bo’lardilar deb oylayman.</p>
                         <p className='text-[20px] leading-[30px] mb-10 font-bold text-[#FAA40C]'>Baxrom Abduqayyum</p>
                     </div>
 

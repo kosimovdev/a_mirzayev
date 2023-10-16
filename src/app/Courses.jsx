@@ -21,7 +21,7 @@ const Courses = () => {
                     <div className="right-box relative w-full">
                         <Image src={star} alt="stars"/>
                         <h1 className='text-[25px] font-extrabold absolute top-[35px] left-[50px]'>Kursning <br/>
-                           <span className='text-[#00E689]'>bahosi 1 mln.so'm</span>
+                           <span className='text-[#00E689]'>bahosi 1 mln.som</span>
                         </h1>
                     </div>
                 </div>
